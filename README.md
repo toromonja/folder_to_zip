@@ -1,4 +1,4 @@
-# Folder to ZIP GUI
+# Folder to ZIP
 
 A simple, modern drag-and-drop tool to compress multiple folders into individual ZIP archives.
 
