@@ -7,7 +7,6 @@ A simple, modern drag-and-drop tool to compress multiple folders into individual
 - ✅ Drag and drop multiple folders
 - 📁 Each folder is compressed into a separate `.zip` file
 - 💡 Clean and modern UI
-- 🖥️ Windows-compatible standalone `.exe` available
 
 ## How to Use
 
